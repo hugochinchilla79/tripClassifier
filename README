@@ -1,0 +1,8 @@
+1. El ejercicio no usa base de datos 
+2. Estrictamente para los Pases de Abordaje, se deben tener 3 datos que corresponden al origen, destino y transporte del viaje, 
+3. Los pases de abordaje no poseen Id's ni numeros de identificacion por tanto es importante que las salidas como destinos tengan nombre unico y sea ese mismo repetido
+4. Se adjuntan pruebas de Unidad con arreglos ordenados de forma distinta y con una misma salida
+5. Se adjunta el archivo web.php para ocupar la API que ordena pases de abordaje de forma desordenada para una forma grafica
+6. Las tecnologias usadas para el desarrollo son: PHPUnit, PHP (Sin Framework), AngularJS, Jquery, Materialize (Framework CSS), IDE: Netbeans, Docker para entorno de desarrollo disponible en
+	https://hub.docker.com/r/tomsik68/xampp/, Composer(dependencias para PHPUnit)
+7. Si se tienen problemas para ejecutar el proyecto por favor escribir a hugo-chinchilla@hotmail.com
